@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deviceMarket/static/css/main.073c9b0a.css",
+    "main.js": "/deviceMarket/static/js/main.f0a7f7a1.js",
+    "static/js/787.cda612ba.chunk.js": "/deviceMarket/static/js/787.cda612ba.chunk.js",
+    "index.html": "/deviceMarket/index.html",
+    "main.073c9b0a.css.map": "/deviceMarket/static/css/main.073c9b0a.css.map",
+    "main.f0a7f7a1.js.map": "/deviceMarket/static/js/main.f0a7f7a1.js.map",
+    "787.cda612ba.chunk.js.map": "/deviceMarket/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f0a7f7a1.js"
+  ]
+}
